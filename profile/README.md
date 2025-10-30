@@ -1,12 +1,20 @@
-## Hi there 👋
+<a name="readme-top"></a>
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+<picture>
+ 
+  <img height="90" src="https://registry.npmmirror.com/@lobehub/assets-logo/1.2.0/files/assets/logo-combine-dark.webp">
+</picture>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Empowering your AI dreams with LobeHub
+
+[![][vercel-shield]][vercel-link]
+[![][discord-shield]][discord-link]
+[![][github-star]][github-link]
+[![][social-x-shield]][social-x-link]<br>
+[![][sponsor-shield]][sponsor-link]
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
